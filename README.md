@@ -4,6 +4,8 @@
 - 🔭 I'm currently working in finishing my studies at 42 school
 - 🌱 I’m currently learning C and C++
 - 💬 Ask me about 42 school, specially 42 Heilbronn
+- 🔧 Building efficient, optimized, and scalable solutions
+- ⚔ Game Dev & DnD Enthusiast
 - 😄 Pronouns: He/Him
 
 ###  Languages
