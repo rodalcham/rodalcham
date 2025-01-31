@@ -11,8 +11,7 @@
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-![Makefile](https://img.shields.io/badge/_-Makefile-427819.svg?style=for-the-badge)
-
+![Makefile](https://img.shields.io/badge/_-Makefile-427819.svg?logo=makefile)(#)
 <!--
 **rodalcham/rodalcham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
