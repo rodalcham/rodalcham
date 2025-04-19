@@ -24,7 +24,7 @@
 
 ##  42 Projects
 
-<details>
+<Feel free to look at my grades and project descriptions, to find the actual repositories please check in pinned below.>
 <summary>Click to expand</summary>
 
 | Project                                                                                                                                                                             | Description                                                                                                                                                                                                           | Core Grade      |
